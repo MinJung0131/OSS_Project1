@@ -18,6 +18,7 @@ echo "7. Get the data of movies rated by a specific 'user id' from 'u.data'"
 echo "8. Get the average 'rating' of movies rated by users with 'age' between 20 and 29 and 'occupation' as 'programmer'"
 echo "9. Exit"
 
+
 echo "-------------------------------------------------------"
 
 stop="N"
